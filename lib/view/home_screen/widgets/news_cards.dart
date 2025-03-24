@@ -55,6 +55,7 @@ class NewsCard extends StatelessWidget {
                           const Icon(
                             LucideIcons.calendarClock,
                             color: darkGrey,
+                            size: 20,
                           ),
                           Text12(
                               title: formatPublishedDate(
