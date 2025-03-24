@@ -1,20 +1,21 @@
-<<<<<<< HEAD
-# kalpas_machine_test
+# 📰 News App
 
-A new Flutter project.
+This is a Flutter-based News App that fetches and displays news articles using the [NewsAPI](https://newsapi.org/). It allows users to explore news, save their favorite articles locally using Hive, and read full news content.
 
-## Getting Started
+## ✨ Features
+- Fetch and display latest news articles
+- Add/remove articles to favorites
+- Search news by keyword
+- View full article details
+- Persistent storage using Hive
 
-This project is a starting point for a Flutter application.
+## 📚 Technologies Used
+- Flutter
+- GetX for State Management
+- Hive for Local Storage
+- HTTP for API Integration
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# news-app
->>>>>>> 1ad66dce18eaa37a681059c255f1b958802797bf
+## 📦 Project Setup
+1. Clone the repo:
+```bash
+git clone https://github.com/choco-beatz/news-app.git
